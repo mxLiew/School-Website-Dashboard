@@ -1,2 +1,16 @@
-# School-Website-Dashboard
-This project aims to create a website that utilises teaching analytics to help professors to facilitate module planning, knowledge roadmapping as well as implement lessons plan. This website provides key visualization on topics such as quiz performance, demographics of cohort (major, year) and grouping function (helps to group students randomly with fair diversity of majors, year, grades and genders). 
+BT3103
+
+# Team:
+The Shoe
+
+# Members:
+1) Giang
+2) Mei Xin
+3) Benedict Soh
+
+# Link to project: https://bensjx.github.io/TheShoe/PreRequisite.html
+
+# Built Using:
+- Vue.js
+- Firebase
+- Python 3
